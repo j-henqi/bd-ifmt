@@ -40,6 +40,7 @@ VALUES
 (9, 'Chamado 9', 'Computador não liga', NOW(), 'Baixa'),
 (10, 'Chamado 10', 'Usuario não loga na vpn', NOW(), 'Alta'),
 (7, 'Chamado 11', 'Usuario sem acesso a internet', NOW(), 'Alta');
+(3, 'Chamado 12', 'Usuario sem acesso a internet', NOW(), 'Alta');
 
 -- Inserindo dados na tabela "CategoriaChamado"
 INSERT INTO CategoriaChamado (IdChamado, IdCategoria)
